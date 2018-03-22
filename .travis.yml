@@ -6,7 +6,7 @@ install: true
 script: true
 after_success:
   - ls -l
-  - scp -i "se234.pem" -r html/* ubuntu@54.255.174.42:/var/www/html/
+  - scp -i "bank_se234.pem" -r html/* ubuntu@54.255.174.42:/var/www/html/
 env:
   global:
     secure: oc6LOK7X79Nnu5db6txpPdepGLAwnhDp++YTff07UszjJgtWrdMG/efVKaZOjikDj9V6cZD1eqJqC3STuBTsMl4IYSZPnv6US11NdXXIBKyk8yX7g0BXrFNn/EZHNQ8TUIG/45zHHwtgvgOwuQsPeOuJnn1jUePN3fGB8KOEfFvEIXCfLnJiTnu6Cnd3NlQX2M2ZZUbCSb5GGE6uLFPUe7xxyW0NA/WHJVRG6CTfA4/pk6wVB067bTgZHfUl9aiS3mDFvpbi1dbxdcCF8ln90Lb/g3GCCVWXVe8CCcVVGNqScOla0OUbST9QsIzP439ZwZ+KSpDrdltDTyIg6tmQRhxayIqkcqsT37t38GN8ZEd2MleZKtFz6Q6m/YGwU/sYaC9tzEA1/feOhc+D5b3SSOkyDyNgYu2Lqrnan2CgsI80dekZLFFgKjfB/l5EXgH/4SDZ8sfDmrwrQnh/LRU6GyTPU9UMUwlhINTraFyPg60DATPdaq1ci0kFXmjNtJ/DeEcMyInQfqduILLCCVeqIQLcbC1kQbHMbI+G+gAqXxbLihEU8ed7rP+X7qnnPZzKuOOuZ68MTQ44dZeaxuZNcuYQCTICv86UMAHaKm0ilaobcFXU4xi7wM49isZm31MP0nDrVhLl97Ngeb/j3OhfQYo+ldGvtCYqOTY8bVFLQz8=
