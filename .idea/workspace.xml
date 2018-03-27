@@ -14,10 +14,10 @@
       <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+            <state relative-caret-position="136">
+              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding>
-                <marker date="1522140276336" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+                <marker date="1522140534099" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
               </folding>
             </state>
           </provider>
@@ -251,12 +251,12 @@
       <workItem from="1521742115028" duration="3111000" />
       <workItem from="1522122482813" duration="35000" />
       <workItem from="1522122552528" duration="1587000" />
-      <workItem from="1522137688339" duration="1652000" />
+      <workItem from="1522137688339" duration="1903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6385000" />
+    <option name="totallyTimeSpent" value="6636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -308,7 +308,7 @@
         <state relative-caret-position="51">
           <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding>
-            <marker date="1522140276336" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522140534099" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
@@ -353,7 +353,7 @@
         <state relative-caret-position="51">
           <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding>
-            <marker date="1522140276336" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522140534099" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
@@ -379,7 +379,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1522140276336" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522140534099" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
@@ -430,10 +430,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="49" lean-forward="false" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
+        <state relative-caret-position="136">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding>
-            <marker date="1522140276336" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522140534099" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
