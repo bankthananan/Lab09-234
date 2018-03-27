@@ -6,12 +6,12 @@ install: true
 before_script:
 - export DOCKER_HOST="$HOST_NAME"
 script:
-- docker build -t $DOCKER_USERNAME/htmltest .
-- docker push $DOCKER_USERNAME/htmltest
+- docker build -t $DOCKER_USERNAME/lab10-container
+- docker push $DOCKER_USERNAME/lab10-container
 after_success:
 - docker stop htmltest
 - docker rm htmltest
-- docker run -p 8088:80 -d --name thmltesl $DOCKER_USERNAME/htmltest:latest
+- docker run -p 8088:80 -d --name lab10-container $DOCKER_USERNAME/lab10-container:latest
 service: docker
 env:
   global:
