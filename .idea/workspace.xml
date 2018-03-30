@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe53af98-774d-46ed-929e-ab4284525f3d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,9 +17,9 @@
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="75" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
+              <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
               <folding>
-                <marker date="1522395115184" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+                <marker date="1522395835897" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
               </folding>
             </state>
           </provider>
@@ -74,7 +73,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -202,12 +201,12 @@
       <workItem from="1522344049348" duration="690000" />
       <workItem from="1522381093689" duration="1031000" />
       <workItem from="1522382822812" duration="958000" />
-      <workItem from="1522391556290" duration="1430000" />
+      <workItem from="1522391556290" duration="2087000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15837000" />
+    <option name="totallyTimeSpent" value="16494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -256,7 +255,7 @@
         <state relative-caret-position="153">
           <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
           <folding>
-            <marker date="1522395115184" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522395835897" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
@@ -288,7 +287,7 @@
         <state relative-caret-position="153">
           <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
           <folding>
-            <marker date="1522395115184" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522395835897" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
@@ -319,7 +318,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1522395115184" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522395835897" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
@@ -381,7 +380,7 @@
         <state relative-caret-position="51">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding>
-            <marker date="1522395115184" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522395835897" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
@@ -406,7 +405,7 @@
         <state relative-caret-position="51">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding>
-            <marker date="1522395115184" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522395835897" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
@@ -422,7 +421,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1522395115184" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522395835897" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
@@ -461,9 +460,9 @@
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="75" selection-start-line="13" selection-start-column="75" selection-end-line="13" selection-end-column="75" />
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
           <folding>
-            <marker date="1522395115184" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
+            <marker date="1522395835897" expanded="true" signature="33:49" ph="before_install: &lt;2 items&gt;" />
           </folding>
         </state>
       </provider>
