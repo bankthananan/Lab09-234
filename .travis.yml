@@ -6,12 +6,12 @@ install: true
 before_script:
 - export DOCKER_HOST="$HOST_NAME"
 script:
-- docker build -t coca1719/lab10-container .
-- docker push coca1719/lab10-container
+- docker build -t $DOCKER_USERNAME/htmltest .
+- docker push $DOCKER_USERNAME/htmltest
 after_success:
 - docker stop htmltest
 - docker rm htmltest
-- docker run -p 8088:80 -d --name lab10-container $DOCKER_USERNAME/lab10-container:latest
+- docker run -p 8088:80 -d --name lab10-container $DOCKER_USERNAME/htmltest:latest
 service: docker
 env:
   global:
