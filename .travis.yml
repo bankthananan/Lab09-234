@@ -1,13 +1,13 @@
 language: node_js
 sudo: required
 before_install:
-- docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD" https://index.docker.io/v1/
+- docker login -u "$DOCKER_USERNAME" -p "$DOCKER_PASSWORD"
 install: true
 before_script:
 - export DOCKER_HOST="$HOST_NAME"
 script:
-- docker build -t $DOCKER_USERNAME/lab10-container .
-- docker push $DOCKER_USERNAME/lab10-container
+- docker build -t coca1719/lab10-container .
+- docker push coca1719/lab10-container
 after_success:
 - docker stop htmltest
 - docker rm htmltest
